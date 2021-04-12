@@ -1,4 +1,4 @@
-# picss
+# pics
 ###q2-1-clnt
 ![image](https://user-images.githubusercontent.com/46701809/114407488-06410680-9bdb-11eb-8dd5-edda503daba2.png)
 ![image](https://user-images.githubusercontent.com/46701809/114407496-080aca00-9bdb-11eb-80f8-d6e40985f482.png)
