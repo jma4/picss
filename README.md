@@ -20,6 +20,11 @@
 ###q2-2-clnt
 ![image](https://user-images.githubusercontent.com/46701809/114407812-620b8f80-9bdb-11eb-929c-76b074e88734.png)
 
+
+###q2-2-colf
+
+![image](https://user-images.githubusercontent.com/46701809/114434324-73619580-9bf5-11eb-8932-1613446d580d.png)
+
 ###q6
 ![image](https://user-images.githubusercontent.com/46701809/114431674-58d9ed00-9bf2-11eb-83bb-6e6fda58a18e.png)
 ![image](https://user-images.githubusercontent.com/46701809/114413673-c715b400-9be0-11eb-97cc-cce13f64017e.png)
