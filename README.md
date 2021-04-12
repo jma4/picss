@@ -18,16 +18,17 @@
 
 
 ###q2-2-clnt
+![image](https://user-images.githubusercontent.com/46701809/114438071-dead6680-9bf9-11eb-9df4-4157e131f017.png)
 ![image](https://user-images.githubusercontent.com/46701809/114407812-620b8f80-9bdb-11eb-929c-76b074e88734.png)
 ![image](https://user-images.githubusercontent.com/46701809/114434459-9c822600-9bf5-11eb-94e5-e6b28af208e8.png)
 ![image](https://user-images.githubusercontent.com/46701809/114434477-a1df7080-9bf5-11eb-8a4d-d0c371081b9a.png)
 
 
 ###q2-2-colf
-
+![image](https://user-images.githubusercontent.com/46701809/114438161-fb499e80-9bf9-11eb-8865-a9242e9ef35c.png)
 ![image](https://user-images.githubusercontent.com/46701809/114434324-73619580-9bf5-11eb-8932-1613446d580d.png)
 ![image](https://user-images.githubusercontent.com/46701809/114434509-ab68d880-9bf5-11eb-9f0f-cd2f0905e973.png)
-![image](https://user-images.githubusercontent.com/46701809/114434516-aefc5f80-9bf5-11eb-88f3-1a70abccc2e6.png)
+![image](https://user-images.githubusercontent.com/46701809/114438425-58455480-9bfa-11eb-9c55-2fd41b7bb10e.png)
 
 ###q2-3-1
 ![image](https://user-images.githubusercontent.com/46701809/114434622-cdfaf180-9bf5-11eb-8579-37da779b3bec.png)
@@ -53,12 +54,13 @@
 ![image](https://user-images.githubusercontent.com/46701809/114435960-5fb72e80-9bf7-11eb-8cf5-b7321e69c738.png)
 ![image](https://user-images.githubusercontent.com/46701809/114435966-6180f200-9bf7-11eb-8dfb-09294d2d88ad.png)
 ![image](https://user-images.githubusercontent.com/46701809/114435976-634ab580-9bf7-11eb-9bb6-4837f5860843.png)
+![image](https://user-images.githubusercontent.com/46701809/114439122-37313380-9bfb-11eb-929e-c5c8e67e8785.png)
 
 ###q4
 ![image](https://user-images.githubusercontent.com/46701809/114435991-69d92d00-9bf7-11eb-9923-074b026ed58d.png)
 ![image](https://user-images.githubusercontent.com/46701809/114435998-6b0a5a00-9bf7-11eb-81c0-3430b9a94471.png)
 ![image](https://user-images.githubusercontent.com/46701809/114436002-6d6cb400-9bf7-11eb-973c-0d53ca41e531.png)
-
+![image](https://user-images.githubusercontent.com/46701809/114439350-752e5780-9bfb-11eb-8243-994ee2e26868.png)
 
 ###q6
 ![image](https://user-images.githubusercontent.com/46701809/114431674-58d9ed00-9bf2-11eb-83bb-6e6fda58a18e.png)
