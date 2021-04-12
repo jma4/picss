@@ -50,6 +50,10 @@
 ###q2-3-5
 ![image](https://user-images.githubusercontent.com/46701809/114435939-58902080-9bf7-11eb-8c1d-cd3eddf6492e.png)
 
+###q2-3 final results
+![image](https://user-images.githubusercontent.com/46701809/114439948-23d29800-9bfc-11eb-8f56-3e14232ab9b0.png)
+
+
 ###q3
 ![image](https://user-images.githubusercontent.com/46701809/114435960-5fb72e80-9bf7-11eb-8cf5-b7321e69c738.png)
 ![image](https://user-images.githubusercontent.com/46701809/114435966-6180f200-9bf7-11eb-8dfb-09294d2d88ad.png)
